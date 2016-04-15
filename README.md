@@ -4,7 +4,9 @@ I wanted just wanted some quick examples of a couple of fractals and found an [F
 
 FYI - the [BMP file format](https://en.wikipedia.org/wiki/BMP_file_format) is simple, but also a bit crazy. Nothing I have on my Mac supports BMP file creation, but if you output a PNG you can convert it with [ImageMagick's mogrify](http://www.imagemagick.org/script/mogrify.php).
 
-Makes me wish I could find the version I wrote in Turbo Pascal when I was a teenager.
+## For the sake of nostalgia
+
+This whole foray into an (overly complicated) example app using Fractals makes me wish I could find the version I wrote in Turbo Pascal when I was a teenager. Unfortunately, even if I found it, I know it was on a 5 1/4" floppy so it might as well not exist. Incidentally, my first version output to the dot matrix printer and must have taken at least an hour to print on the IBM PC AT.
 
 ## Compile
 
