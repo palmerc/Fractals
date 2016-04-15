@@ -1,2 +1,0 @@
-### Convert PNG to correct BMP format using ImageMagick's mogrify
-mogrify -format bmp -define bmp:format=BMP3 input.png
